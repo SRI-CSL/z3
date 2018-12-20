@@ -1,3 +1,9 @@
+# Z3 + Spacer (CHC solver used by SeaHorn) # 
+
+Forked created for a SeaHorn version used in the DoubleHelix project.
+That version uses the branch `deep-dev` which will dissappear from official spacer github repository.
+We create this fork for keeping an archive of the submitted software for that project.
+
 # Z3
 
 Z3 is a theorem prover from Microsoft Research. It is licensed
